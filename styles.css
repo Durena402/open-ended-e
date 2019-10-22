@@ -1,0 +1,18 @@
+header{
+  font-style: underline;
+  font-weight: bold;
+  font-size: 21px;
+}
+.box {
+  border-color: black;
+  border: solid 1px;
+}
+li {
+  background-color: white;
+  color: black;
+}
+li:hover {
+  background-color: black;
+  color: white;
+
+}
